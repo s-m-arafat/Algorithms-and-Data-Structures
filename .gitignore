@@ -1,6 +1,0 @@
-*.exe
-*.o
-.vscode
-*.bin
-*.prob
-.gitignore
